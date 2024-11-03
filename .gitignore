@@ -1,0 +1,8 @@
+# Ignore Dataset directory at the root level
+Dataset/
+
+# Ignore the runs folder inside Scripts
+Scripts/runs/
+
+# Ignore specific files and folders
+.DS_Store
